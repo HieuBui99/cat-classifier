@@ -1,2 +1,2 @@
-# cat-classifier
+# Cat Classifier
 Cat classifer with neural network
